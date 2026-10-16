@@ -14,8 +14,8 @@ Ein eigenständig installierbarer FHEM-Style auf Grundlage der Arbeit von [Matth
 
 | Werkzeug | Zweck | Stand |
 | --- | --- | --- |
-| **PID20 Community Edition** | Weiterentwicklung des PID20-Reglers mit überarbeiteter D-Berechnung | In Vorbereitung: Isolierte Funktionstests bestanden; Randfälle und eine neue Veröffentlichung werden noch geprüft. Der frühere Entwicklungsstand ist privat. |
-| **TibberConnect** | Einbindung dynamischer Strompreise in FHEM | In Vorbereitung: Der frühere Entwicklungsstand ist privat; die weitere Prüfung und eine neue Veröffentlichung folgen nach der FHEM-Migration. |
+| **PID20 Community Edition** | Weiterentwicklung des PID20-Reglers mit überarbeiteter D-Berechnung | In Vorbereitung: Isolierte Funktionstests bestanden; Randfälle und eine neue Veröffentlichung werden noch geprüft. Das frühere GitHub-Repository wurde gelöscht. |
+| **TibberConnect** | Einbindung dynamischer Strompreise in FHEM | In Vorbereitung: Das frühere GitHub-Repository wurde gelöscht; die weitere Prüfung und eine neue Veröffentlichung folgen nach der FHEM-Migration. |
 | **Gradient** | Erkennt Steigungen und Trends in Messwerten wie Temperatur oder Luftfeuchte | Auf meinem bisherigen FHEM mit Beispielen eingerichtet; breitere Erprobung und Erstveröffentlichung stehen noch aus. |
 | **TempReadingFilter** | Gibt die Temperatur eines Heizkreis-Rücklaufs erst nach einer einstellbaren Wartezeit bei geöffnetem Ventil weiter | Technischer Entwicklungsstand vorhanden; praktische Erprobung im geplanten Betrieb und Erstveröffentlichung stehen noch aus. |
 
