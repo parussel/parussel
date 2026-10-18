@@ -22,11 +22,14 @@ FHEM-Modul zur Erkennung dynamischer Änderungen in Messwerten mittels linearer 
 
 FHEM-Modul, das Temperaturwerte abhängig vom Zustand eines Aktors und einer einstellbaren Wartezeit weitergibt. Der Verzögerungsablauf, veraltete Timer und der Betrieb in einer vorhandenen FHEM-Installation wurden geprüft; eine breite Erprobung steht noch aus.
 
-## In Vorbereitung
+### [TibberConnect und TibberLive](https://github.com/parussel/TibberConnect)
 
-| Projekt | Zweck | Stand |
-| --- | --- | --- |
-| **TibberConnect** | Einbindung dynamischer Strompreise in FHEM | In Vorbereitung: Das frühere GitHub-Repository wurde gelöscht; die weitere Prüfung und eine neue Veröffentlichung folgen nach der FHEM-Migration. |
+Zwei zusammenarbeitende FHEM-Module für Tibber-Viertelstundenpreise,
+Preisplanung und – optional – aktuelle Tibber-Pulse-IR-Werte. Der öffentliche
+Release Candidate wurde automatisiert sowie auf Raspberry Pi 3 und 4 geprüft.
+Die Installationsanleitung enthält die sichere Reihenfolge, Beispiele für
+Diagramme und Übersicht sowie einen begrenzten FHEM-Updatekanal, der keine
+persönlichen Konfigurationen überschreibt.
 
 **Hinweis zum Entwicklungsstand:** Für diese Werkzeuge fehlt teilweise noch eine breite Erprobung in unterschiedlichen Anlagen. Wer einen veröffentlichten Stand installiert oder einsetzt, tut dies in eigener Verantwortung. Vor Änderungen an einer laufenden FHEM-Anlage sind eine Sicherung und ein Test in einer getrennten Umgebung sinnvoll. Die jeweilige Projektseite nennt den konkreten Prüfstand und die bekannten Grenzen.
 
