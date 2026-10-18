@@ -22,6 +22,10 @@ FHEM-Modul zur Erkennung dynamischer Änderungen in Messwerten mittels linearer 
 
 FHEM-Modul, das Temperaturwerte abhängig vom Zustand eines Aktors und einer einstellbaren Wartezeit weitergibt. Der Verzögerungsablauf, veraltete Timer und der Betrieb in einer vorhandenen FHEM-Installation wurden geprüft; eine breite Erprobung steht noch aus.
 
+### [Alexa-FHEM – lokale SSH-RSA/SHA-2-Anleitung](https://github.com/parussel/Alexa-FHEM)
+
+Deutschsprachige Schritt-für-Schritt-Anleitung für eine lokale Anpassung einer bestehenden alexa-fhem-Installation 0.5.64. Keine offizielle FHEM- oder Upstream-Veröffentlichung; enthält Prüfschritte, Sicherung und Rückweg.
+
 ### [TibberConnect und TibberLive](https://github.com/parussel/TibberConnect)
 
 Zwei zusammenarbeitende FHEM-Module für Tibber-Viertelstundenpreise,
