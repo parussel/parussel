@@ -14,6 +14,10 @@ Ein eigenständig installierbarer FHEM-Style auf Grundlage der Arbeit von [Matth
 
 Unabhängige Community-Weiterentwicklung des FHEM-PID20-Reglers. Sie korrigiert die Wirkrichtung des D-Anteils im Reverse-Betrieb und ergänzt eine optionale Glättung über mehrere Messwerte. Automatisierte und isolierte Tests sowie ein Einsatz mit bestehenden Definitionen wurden geprüft; eine breite Erprobung in unterschiedlichen Heizungsanlagen steht noch aus.
 
+### [PWM / PWMR – erweiterte FHEM-Version](https://github.com/parussel/PWM-PWMR)
+
+Kompatible Community-Erweiterung der ursprünglichen FHEM-Module für die PWM-basierte Raumregelung. Sie ergänzt unter anderem feinere Solltemperatur-Schritte, Fensterkontakte, Ventil-Service-Override und einen korrigierten `readingsProxy`-Schaltzustandsabgleich. Die Projektseite beschreibt einen sicheren Updateweg mit Rückkehr zum offiziellen FHEM-Stand; eine breite Erprobung in unterschiedlichen Heizungsanlagen steht noch aus.
+
 ### [Gradient](https://github.com/parussel/Gradient)
 
 FHEM-Modul zur Erkennung dynamischer Änderungen in Messwerten mittels linearer Regression – zum Beispiel Temperaturanstieg am Zirkulationsrücklauf, schneller Temperaturabfall oder Feuchteanstieg. Automatisierte Tests und mehrere laufende Definitionen wurden geprüft; eine breite Erprobung steht noch aus.
