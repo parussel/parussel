@@ -2,7 +2,7 @@
 
 Ich beschäftige mich mit FHEM, Hausautomation und Energiemanagement. Hier teile ich Lösungen, die aus dem praktischen Betrieb meiner eigenen Anlage entstanden sind.
 
-🌐 [153er-netz.de](https://153er-netz.de) · [Entwicklung](https://153er-netz.de/seiten/entwicklung.html)
+🌐 [153er-netz.de](https://153er-netz.de) · [FHEM-Projekte im 153er Netz](https://153er-netz.de/seiten/entwicklung/fhem.html)
 
 ## Öffentliche Projekte
 
