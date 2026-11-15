@@ -18,6 +18,10 @@ Unabhängige Community-Weiterentwicklung des FHEM-PID20-Reglers. Sie korrigiert 
 
 Kompatible Community-Erweiterung der ursprünglichen FHEM-Module für die PWM-basierte Raumregelung. Sie ergänzt unter anderem feinere Solltemperatur-Schritte, Fensterkontakte, Ventil-Service-Override und einen korrigierten `readingsProxy`-Schaltzustandsabgleich. Die Projektseite beschreibt einen sicheren Updateweg mit Rückkehr zum offiziellen FHEM-Stand; eine breite Erprobung in unterschiedlichen Heizungsanlagen steht noch aus.
 
+### [OW2S0SMSGUARD – Community-Erweiterung](https://github.com/parussel/OW2S0SMSGUARD)
+
+Abwärtskompatible Erweiterung des FHEM-Moduls für den 1-Wire-USB-Master von SMS-Guard. Sie ergänzt eine optionale Plausibilitätsprüfung für DS18x-Sensoren, persistente Diagnosezähler und eine optionale tabellarische OneWire-Sensordiagnose. Installation, gezielter Ausschluss vom offiziellen FHEM-Update und Rückkehr zum Originalmodul sind vollständig dokumentiert.
+
 ### [Gradient](https://github.com/parussel/Gradient)
 
 FHEM-Modul zur Erkennung dynamischer Änderungen in Messwerten mittels linearer Regression – zum Beispiel Temperaturanstieg am Zirkulationsrücklauf, schneller Temperaturabfall oder Feuchteanstieg. Automatisierte Tests und mehrere laufende Definitionen wurden geprüft; eine breite Erprobung steht noch aus.
